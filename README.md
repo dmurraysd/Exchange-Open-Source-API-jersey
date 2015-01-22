@@ -8,6 +8,8 @@ Project Incomplete - will update when possible
 
 APICLient.java, Authentication.java & ApiCalls.java main additions
 
+All API functions are created using jersey client
+
 Cert paths, security keys and application key must be set in APIClient.java
 
 Non-interactive login used
