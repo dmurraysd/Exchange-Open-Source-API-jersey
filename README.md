@@ -2,7 +2,7 @@
 
 Accessing Betfair Exchange using jersey library
 
-Documentation regarding API-NG is available at: https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/API-NG+Overview
+Documentation regarding API-NG is available at: https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/API+Overview
 
 Project Incomplete - will update when possible
 
